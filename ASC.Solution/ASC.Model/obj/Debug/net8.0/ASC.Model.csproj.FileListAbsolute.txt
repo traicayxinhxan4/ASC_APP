@@ -1,0 +1,12 @@
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.AssemblyReference.cache
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfoInputs.cache
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfo.cs
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.CoreCompileInputs.cache
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Model.deps.json
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Model.dll
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Model.pdb
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.dll
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Model\obj\Debug\net8.0\refint\ASC.Model.dll
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.pdb
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Model\obj\Debug\net8.0\ref\ASC.Model.dll

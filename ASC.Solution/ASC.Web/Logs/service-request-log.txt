@@ -1,0 +1,8 @@
+>>> VehicleNames Count: 3
+[VehicleName] RowKey: 14b7600b-60a8-4223-b65d-762d45b581d5, Name: Honda Accord, PartitionKey: VehicleName
+[VehicleName] RowKey: 2b841844-899a-4867-b69e-dea9e028ceba, Name: Honda Brio, PartitionKey: VehicleName
+[VehicleName] RowKey: e67bf830-87e8-4269-a59f-f2131fb28110, Name: Honda CR-V, PartitionKey: VehicleName
+>>> VehicleTypes Count: 3
+[VehicleType] RowKey: 1608e5f9-5ddf-49ae-8498-d0794e889114, Name: Car, PartitionKey: VehicleType
+[VehicleType] RowKey: e6ffff81-3148-48cc-aaa4-1db57f203e9d, Name: Truck, PartitionKey: VehicleType
+[VehicleType] RowKey: e8b62ba7-7da7-4983-8aac-dd502d4b0d11, Name: Camper, PartitionKey: VehicleType

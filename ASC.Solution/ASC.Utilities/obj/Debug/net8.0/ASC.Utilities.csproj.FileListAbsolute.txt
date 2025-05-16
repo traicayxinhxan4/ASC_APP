@@ -1,0 +1,12 @@
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.deps.json
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.dll
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.pdb
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfoInputs.cache
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfo.cs
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.CoreCompileInputs.cache
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.dll
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll
+E:\THKTVATKPM\BaiThucHanh1\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.AssemblyReference.cache
